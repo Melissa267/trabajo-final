@@ -1,0 +1,14 @@
+/* variables */
+/* selectores de etiquetas */
+h1 {
+  color: white; }
+
+.transform:hover {
+  transform: translate(30px, 20px);
+  cursor: pointer; }
+
+.fontItalic {
+  font-style: italic; }
+
+.textWhite {
+  color: white; }

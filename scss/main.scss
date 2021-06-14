@@ -1,0 +1,18 @@
+/* variables */
+$light:white;
+
+/* selectores de etiquetas */
+h1{
+	color: $light;
+}
+
+.transform:hover{
+    transform: translate(30px, 20px);
+    cursor: pointer;
+}
+.fontItalic{
+	font-style: italic;
+}
+.textWhite{
+	color: $light;
+}
